@@ -7,7 +7,7 @@ No frameworks required, just JavaScript & CSS.
 Use a bundler like Webpack or Parcel (optional).
 Setup
 1. Clone the repository
-git clone https://github.com/username/pomodoro-timer.git
+git clone https://github.com/sofyan488/pomodoro-timer.git
 
 2. Install dependencies (optional)
  in terminal in gitbash
